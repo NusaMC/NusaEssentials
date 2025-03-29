@@ -23,27 +23,27 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
     Adjust every aspect of the addon to make your server needs.
 
 # Plugins
-- **BetterLand `(New)`**
-- **EconomyX `(New)`**
-- **Holograms `(New)`**
-- **SetHome `(New)`**
-- **SimpleBoard `(New)`**
-- **Warps `(New)`**
-- **SimpleUI `(New)`**
-- **ShopUI `(New)`**
-- **ShopNPC `(Progress)`**
-- **ChestShop `(Progress)`**
-- **RandomTP `(Progress)`**
-- **SimpleTPA `(Progress)`**
-- **NusaCrate `(Comming Soon)`**
-- **Leaderboards `(Comming Soon)`**
-- **ChatBubbles `(Comming Soon)`**
-- **SimpleKit `(Comming Soon)`**
-- **Want more? Join on Discord**
+- **BetterLand**
+- **EconomyX**
+- **Holograms**
+- **SetHome**
+- **SimpleBoard**
+- **Warps**
+- **SimpleUI**
+- **ShopUI**
+- **RandomTP**
+- **Leaderboards**
+- **ChestShop**
+- **SimpleTPA**
+- **NusaCrate**
+- **ShopNPC**
+- **SimpleKit**
+- **ChatBubbles**
+- **Etc.**
 
 # Releases
 
-- ## NusaEssentials v0.1.0-alpha
+- ## NusaEssentials v0.1.0
 
     First alpha release.
 
@@ -58,6 +58,24 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
     - Add EN_us lang
     - Add More Plugins
     - And Much More.
+
+- ## NusaEssentials v0.2.0
+    Add more features and plugins
+
+    ### **What's Changed**
+    - Add ChestShop
+    - Add RandomTP
+    - Add SimpleTPA
+    - Add Leaderboards
+    - Fix bugs
+
+- ## NusaEssentials v0.3.0
+    Support 1.21.70 with the new crate plugin
+
+    ### **What's Changed**
+    - Add NusaCrate
+    - Support 1.21.70
+    - Fix bugs
 
 # Links
 
