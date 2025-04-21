@@ -77,6 +77,15 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
     - Support 1.21.70
     - Fix bugs
 
+- ## NusaEssentials v0.4.0
+    Added a new npc system
+
+    Download NPC's: [github.com/NusaMC/NusaNPC](https://github.com/NusaMC/NusaNPC/releases)
+
+    ### **What's Changed**
+    - Add NusaNPC
+    - Fix bugs
+
 # Links
 
 - Contributors: [[ItzCandra23](https://github.com/ItzCandra23)]
