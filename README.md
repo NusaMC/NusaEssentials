@@ -86,6 +86,16 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
     - Add NusaNPC
     - Fix bugs
 
+- ## NusaEssentials v0.5.0
+    More customization with nusa script injection
+
+    [Download NusaAdmin-RP (optional)](https://github.com/NusaMC/NusaAdmin-RP/releases)
+
+    ### **What's Changed**
+    - Support Minecraft Commands
+    - Add NusaScripts system
+    - Add SimpleKit Plugin
+
 # Links
 
 - Contributors: [[ItzCandra23](https://github.com/ItzCandra23)]
