@@ -95,6 +95,13 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
     - Support Minecraft Commands
     - Add NusaScripts system
     - Add SimpleKit Plugin
+ 
+  
+- ## NusaEssentials v0.5.1
+    Fix NusaItem form, Entity spawn, Translate, and Config.
+
+    ### **What's Changed**
+    - Fix bugs
 
 # Links
 
