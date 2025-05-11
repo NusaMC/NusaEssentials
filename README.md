@@ -98,7 +98,7 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
  
   
 - ## NusaEssentials v0.5.1
-    Fix NusaItem form, Entity spawn, Translate, and Config.
+    Fix NusaItem form, Entity spawn, Translate, and Much More
 
     ### **What's Changed**
     - Fix bugs
