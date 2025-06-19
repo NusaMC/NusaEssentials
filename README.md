@@ -102,6 +102,13 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
 
     ### **What's Changed**
     - Fix bugs
+ 
+- ## NusaEssentials v0.6.0
+    Support 1.21.90
+
+    ### **What's Changed**
+    - Support 1.21.90
+    - Fix bugs
 
 # Links
 
