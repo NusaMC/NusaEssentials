@@ -110,6 +110,13 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
     - Support 1.21.90
     - Fix bugs
 
+- ## NusaEssentials v0.7.0
+    Add new plugins
+
+    ### **What's Changed**
+    - Add NusaPose Plugin (sit/lay)
+    - Add JoinMessages Plugin
+
 # Links
 
 - Contributors: [[ItzCandra23](https://github.com/ItzCandra23)]
