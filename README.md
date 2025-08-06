@@ -118,6 +118,14 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
     - Add JoinMessages Plugin
     - Fix bugs
 
+ - ## NusaEssentials v0.8.0
+    Support 1.21.100 and add new plugin
+    
+    ### **What's Changed**
+    - Support 1.21.100
+    - Add CustomTags Plugin
+    - Fix bugs
+
 # Links
 
 - Contributors: [[ItzCandra23](https://github.com/ItzCandra23)]
