@@ -126,6 +126,14 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
     - Add CustomTags Plugin
     - Fix bugs
 
+- ## NusaEssentials v0.9.0
+    Support 1.21.111, fix bugs, and add new plugin
+    
+    ### **What's Changed**
+    - Support 1.21.111
+    - Add RankGrant Plugin
+    - Fix bugs
+
 # Links
 
 - Contributors: [[ItzCandra23](https://github.com/ItzCandra23)]
