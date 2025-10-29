@@ -134,6 +134,13 @@ The Ultimate Addon to Make a Survival Economy in Minecraft. NusaEssentials is an
     - Add RankGrant Plugin
     - Fix bugs
 
+- ## NusaEssentials v0.9.1
+    Support 1.21.120 and optimization
+    
+    ### **What's Changed**
+    - Support 1.21.120
+    - Optimization
+
 # Links
 
 - Contributors: [[ItzCandra23](https://github.com/ItzCandra23)]
